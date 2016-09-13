@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://piaggiotopcom.com/' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Chuyên phân phối các dòng Vespa Piaggio chính hãng giá rẻ </a>. Trả góp 0% lãi suất. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://piaggiotopcom.com/' target='_blank'><img src='http://piaggiotopcom.com/mua-vespa-tra-gop-co-nen-hay-khong/' width='500px'/><br/>13 Chuyên phân phối các dòng Vespa Piaggio chính hãng giá rẻ </a>. Trả góp 0% lãi suất. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
